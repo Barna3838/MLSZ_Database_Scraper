@@ -21,3 +21,9 @@ Az esetleges jó teljesítményű játékosok szemmel tartása és a lehetséges
   
   - szerb adatbázis átvizsgálása
   NINCS LINK (Gerivel értekezni a lehetőségekről)
+
+
+### 2020.05.24
+
+- oefb.at vázának megvizsgálása és az alapadatok kinyerése 1 adott oldalon. https://www.oefb.at/bewerbe/Spieler/6732280?David-Graef
+- futbalnet.sk vázának megvizsgálása és az alapadatok kinyerése 1 adott oldalon. https://futbalnet.sk/member/1268260
